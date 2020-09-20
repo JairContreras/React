@@ -240,12 +240,12 @@ class Contact extends Component {
                                         Send Feedback
                                     </Button>
                                 </Col>
-                            </Row>
+                            </Row>c
                         </Form>
                     </div>
                 </div>
 
-. . .
+. . .0
             </div>
         );
     }
